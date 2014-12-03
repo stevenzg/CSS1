@@ -1,0 +1,18 @@
+{
+  "author": {
+    "name": "https://github.com/GYF1"
+  },
+  "name": "css1",
+  "version": "0.0.1",
+  "main": "css1.css",
+  "ignore": [
+    "/.idea",
+    "demo.html",
+    "demo.css",
+    "demo.js",
+    "doc",
+    "**/.*",
+    "node_modules",
+    "components"
+  ]
+}
